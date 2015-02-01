@@ -1,4 +1,4 @@
-package concorrency_cookbook.synchronization.method;
+package concorrency_cookbook.synchronization.block;
 
 /**
  * Created by Yang on 2015/1/30.

@@ -1,4 +1,6 @@
-package concorrency_cookbook.synchronization.method;
+package concorrency_cookbook.synchronization.block;
+
+import concorrency_cookbook.synchronization.method.synchronization.block.Account;
 
 /**
  * Created by Yang on 2015/1/30.
