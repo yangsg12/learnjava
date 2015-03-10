@@ -1,10 +1,12 @@
+/*
 package concorrency_cookbook.synchronization.method.synchronization.block;
 
-import concorrency_cookbook.synchronization.method.synchronization.block.Account;
 
+*/
 /**
  * Created by Yang on 2015/1/30.
- */
+ *//*
+
 public class Company implements Runnable {
     private Account account;// 账户上加钱
     public Company(Account account){
@@ -19,3 +21,4 @@ public class Company implements Runnable {
         }
     }
 }
+*/

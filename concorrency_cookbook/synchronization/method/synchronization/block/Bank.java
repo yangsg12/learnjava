@@ -1,10 +1,13 @@
+/*
 package concorrency_cookbook.synchronization.method.synchronization.block;
 
 import concorrency_cookbook.synchronization.method.synchronization.block.Account;
 
+*/
 /**
  * Created by Yang on 2015/1/30.
- */
+ *//*
+
 public class Bank implements Runnable {
     private Account account;
     public Bank(Account account){
@@ -19,3 +22,4 @@ public class Bank implements Runnable {
         }
     }
 }
+*/
