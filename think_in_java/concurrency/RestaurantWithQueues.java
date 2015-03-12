@@ -34,7 +34,7 @@ class Order {
     }
 
     public String toString() {
-        return "Order : " +id +" item: "+food +" for : "+customer+" served by: "+waitPerson;
+        return "Order : " +id +" item: "+food +" for : "+customer+" served by: "+ waitPerson;
     }
 }
 
