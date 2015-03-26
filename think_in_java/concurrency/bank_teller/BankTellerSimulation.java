@@ -1,4 +1,4 @@
-package concorrency_cookbook;
+package think_in_java.concurrency.bank_teller;
 
 import java.util.LinkedList;
 import java.util.PriorityQueue;
